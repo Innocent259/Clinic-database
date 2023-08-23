@@ -93,7 +93,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/BenM4k/vet-clinic-db.git
+  git clone https://github.com/Innocent259/Clinic-database.git
 ```
 
 <!-- ### Install
